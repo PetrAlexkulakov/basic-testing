@@ -10,7 +10,7 @@ describe('simpleCalculator tests', () => {
   });
 
   test('should multiply two numbers', () => {
-    expect(simpleCalculator({ a: 4, b: 5, action: '*' })).toBe(20);
+    expect(simpleCalculator({ a: 2, b: 5, action: '*' })).toBe(10);
   });
 
   test('should divide two numbers', () => {
