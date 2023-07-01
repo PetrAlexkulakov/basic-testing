@@ -1,5 +1,4 @@
 // Uncomment the code below and write your tests
-// import { throwError, throwCustomError, resolveValue, MyAwesomeError, rejectCustomError } from './index';
 import {
   throwError,
   resolveValue,
